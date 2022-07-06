@@ -1,4 +1,8 @@
-# Certifications
+# Certifications #Badges
+
+Earned Badges
+
+https://www.credly.com/users/shyam-nalluri.68cf6457
 
 Here you can find links to all my certifications.
 
