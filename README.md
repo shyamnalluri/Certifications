@@ -15,7 +15,9 @@ https://coursera.org/share/27a007942847857ee4971edf0d52496d
 Getting Started with Git and GitHub
 
 https://www.coursera.org/account/accomplishments/certificate/LJP7LNWUWQNG
+[Coursera LJP7LNWUWQNG.pdf](https://github.com/shyamnalluri/Certifications/files/10807982/Coursera.LJP7LNWUWQNG.pdf)
 
 Hands-on Introduction to Linux Commands and Shell Scripting
 
 https://coursera.org/share/9687ca1c68725d1fe9dc4ec1c0325220
+![CERTIFICATE_LANDING_PAGE_GNJKB43XA6PZ](https://user-images.githubusercontent.com/96878338/220749086-ad31d7a7-adde-45ee-8476-34be4330d978.jpeg)
