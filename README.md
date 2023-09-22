@@ -4,7 +4,7 @@
 
 https://www.credly.com/users/shyam-nalluri.68cf6457
 
-## Certifications.
+## Certifications
 
 ### Terraform Certification
 https://www.credly.com/badges/54cd73b0-e970-47a9-9259-c621a68fd4c4/public_url
