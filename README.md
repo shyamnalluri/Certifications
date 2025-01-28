@@ -1,15 +1,26 @@
-# Certifications #Badges
-
-## Badges
+# Badges
 
 https://www.credly.com/users/shyam-nalluri.68cf6457
 
-## Certifications
+# Certifications
+
+### Azure Fundamentals Certification
+https://learn.microsoft.com/api/credentials/share/en-us/ShyamNalluri-5127/7A929ED5CD4E309B?sharingId=4BD8CF4FD86963D2
+
+![microsoft-certified-fundamentals-badge](https://github.com/user-attachments/assets/2bf5ac28-3915-41d2-bdb8-86d1902c63c1)
+
 
 ### Terraform Certification
 https://www.credly.com/badges/54cd73b0-e970-47a9-9259-c621a68fd4c4/public_url
 
 ![hashicorp-certified-terraform-associate-002](https://github.com/shyamnalluri/Certifications/assets/96878338/e6c1e8c7-ddbd-4b42-bf1c-297d51b07719)
+
+### Aws Certified Technical Accredited
+
+https://www.credly.com/badges/d31bd2b5-0816-4c14-807e-f5e23b10b152
+
+![1000035550](https://github.com/user-attachments/assets/b58a22ac-940d-40e2-a8a2-2ce09f2a86e1)
+
 
 ### DevOps, Cloud, and Agile Foundations Specialization.
 
